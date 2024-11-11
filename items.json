@@ -1,0 +1,479 @@
+{
+    "items" : [
+                {
+                    "id": 1,
+                    "itemName": "BITES - LARGE",
+                    "itemCategory": "Snacks",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/LargePops.jpeg?raw=true"
+                },
+                {
+                    "id": 2,
+                    "itemName": "KFC KOKO",
+                    "itemCategory": "Sides",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Sprite.jpeg?raw=true"
+                },
+                {
+                    "id": 3,
+                    "itemName": "BITES - REGULAR",
+                    "itemCategory": "Snacks",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/LargePops.jpeg?raw=true"
+                },
+                {
+                    "id": 4,
+                    "itemName": "LIME CHILLI WINGS - 12 PIECES",
+                    "itemCategory": "Snacks",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/12Wings.jpeg?raw=true"
+                },
+                {
+                    "id": 5,
+                    "itemName": "LIME CHILLI WINGS - 6 PIECES",
+                    "itemCategory": "Snacks",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/6Wings.jpeg?raw=true"
+                },
+                {
+                    "id": 6,
+                    "itemName": "BITES BUCKET",
+                    "itemCategory": "Snacks",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/PopsBucket.jpeg?raw=true"
+                },
+                {
+                    "id": 7,
+                    "itemName": "Chichen-Bites",
+                    "itemCategory": "Snacks",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Sprite.jpeg?raw=true"
+                },
+                {
+                    "id": 8,
+                    "itemName": "COLONEL DIP SAUCE",
+                    "itemCategory": "Sides",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/C-sauce.jpeg?raw=true"
+                },
+                {
+                    "id": 9,
+                    "itemName": "ZINGER DIP SAUCE",
+                    "itemCategory": "Sides",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Z-sauce.jpeg?raw=true"
+                },
+                {
+                    "id": 10,
+                    "itemName": "CHIPS BUCKET",
+                    "itemCategory": "Sides",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/ChipsBucket.jpeg?raw=true"
+                },
+                {
+                    "id": 11,
+                    "itemName": "EXTRA - VEG SHITO",
+                    "itemCategory": "Sides",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Shito.jpeg?raw=true"
+                },
+                {
+                    "id": 12,
+                    "itemName": "SIDE - KFC JOLLOF RICE",
+                    "itemCategory": "Sides",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/RiceOnly.jpeg?raw=true"
+                },
+                {
+                    "id": 13,
+                    "itemName": "LARGE CHIPS",
+                    "itemCategory": "Sides",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/LargeChipsOnly.jpeg?raw=true"
+                },
+                {
+                    "id": 14,
+                    "itemName": "REGULAR CHIPS",
+                    "itemCategory": "Sides",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/LargeChipsOnly.jpeg?raw=true"
+                },
+                {
+                    "id": 15,
+                    "itemName": "EXTRA - CHEESE SLICE",
+                    "itemCategory": "Sides",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Cheese.jpeg?raw=true"
+                },
+                {
+                    "id": 16,
+                    "itemName": "EXTRA - TOMATO KETCHUP",
+                    "itemCategory": "Sides",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/ketchup.jpeg?raw=true"
+                },
+                {
+                    "id": 17,
+                    "itemName": "SIDE - REG COLESLAW",
+                    "itemCategory": "Sides",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/coleslaw.jpeg?raw=true"
+                },
+                {
+                    "id": 18,
+                    "itemName": "SPRITE 300ML",
+                    "itemCategory": "Drinks",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Sprite.jpeg?raw=true"
+                },
+                {
+                    "id": 19,
+                    "itemName": "FANTA 300ML",
+                    "itemCategory": "Drinks",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Fanta.jpeg?raw=true"
+                },
+                {
+                    "id": 20,
+                    "itemName": "COCA COLA 300ML",
+                    "itemCategory": "Drinks",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/coke.jpeg?raw=true"
+                },
+                {
+                    "id": 21,
+                    "itemName": "WATER 500ML",
+                    "itemCategory": "Drinks",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Water.jpeg?raw=true"
+                },
+                {
+                    "id": 22,
+                    "itemName": "KFC CHICKEN RICE BOWL",
+                    "itemCategory": "Value Deals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/ChickenRiceBowl.jpeg?raw=true"
+                },
+                {
+                    "id": 23,
+                    "itemName": "CHICKEN BITES MEAL",
+                    "itemCategory": "Value Deals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/ChickenPopsMeal.jpeg?raw=true"
+                },
+                {
+                    "id": 24,
+                    "itemName": "KFC WINGMAN",
+                    "itemCategory": "Value Deals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/WingMan.jpeg?raw=true"
+                },
+                {
+                    "id": 25,
+                    "itemName": "BURGER MEAL - ZINGER",
+                    "itemCategory": "Meals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/BurgerWithChips.jpeg?raw=true"
+                },
+                {
+                    "id": 26,
+                    "itemName": "BURGER MEAL - COLONEL",
+                    "itemCategory": "Meals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/BurgerWithChips.jpeg?raw=true"
+                },
+                {
+                    "id": 27,
+                    "itemName": "TWISTER MEAL - ZINGER",
+                    "itemCategory": "Meals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/TwisterWithChips.jpeg?raw=true"
+                },
+                {
+                    "id": 28,
+                    "itemName": "TWISTER MEAL - COLONEL",
+                    "itemCategory": "Meals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/TwisterWithChips.jpeg?raw=true"
+                },
+                {
+                    "id": 29,
+                    "itemName": "BURGER - ZINGER",
+                    "itemCategory": "Burgers",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/BurgerOnly.jpeg?raw=true"
+                },
+                {
+                    "id": 30,
+                    "itemName": "BURGER - COLONEL",
+                    "itemCategory": "Burgers",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/BurgerOnly.jpeg?raw=true"
+                },
+                {
+                    "id": 31,
+                    "itemName": "TWISTER - ZINGER",
+                    "itemCategory": "Toasted",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/TwisterOnly.jpeg?raw=true"
+                },
+                {
+                    "id": 32,
+                    "itemName": "TWISTER COLONEL",
+                    "itemCategory": "Toasted",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/TwisterOnly.jpeg?raw=true"
+                },
+                {
+                    "id": 33,
+                    "itemName": "1 PIECE CHICKEN - HOT & CRISPY",
+                    "itemCategory": "Chicken pieces",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/1pscChicken.jpeg?raw=true"
+                },
+                {
+                    "id": 34,
+                    "itemName": "1 PIECE CHICKEN - ORIGINAL",
+                    "itemCategory": "Chicken pieces",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/1pscChicken.jpeg?raw=true"
+                },
+                {
+                    "id": 35,
+                    "itemName": "2 PIECE CHICKEN - HOT & CRISPY",
+                    "itemCategory": "Chicken pieces",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/2pcsChicken.jpeg?raw=true"
+                },
+                {
+                    "id": 36,
+                    "itemName": "2 PIECE CHICKEN - ORIGINAL",
+                    "itemCategory": "Chicken pieces",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/2pcsChicken.jpeg?raw=true"
+                },
+                {
+                    "id": 37,
+                    "itemName": "MINI BONELESS BUCKET",
+                    "itemCategory": "Buckets",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/MiniBonelessBucket.jpeg?raw=true"
+                },
+                
+                {
+                    "id": 38,
+                    "itemName": "BONELESS BUCKET MEAL",
+                    "itemCategory": "Buckets",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/BonelessBucketMeal.jpeg?raw=true"
+                },
+                {
+                    "id": 39,
+                    "itemName": "9 PIECE BUCKET - HOT & CRISPY",
+                    "itemCategory": "Buckets",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/9pcsChicken.jpeg?raw=true"
+                },
+                {
+                    "id": 40,
+                    "itemName": "9 PIECE BUCKET - ORIGINAL",
+                    "itemCategory": "Buckets",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/9pcsChicken.jpeg?raw=true"
+                },
+                {
+                    "id": 41,
+                    "itemName": "12 PIECE BUCKET - HOT & CRISPY",
+                    "itemCategory": "Buckets",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/12pcsChicken.jpeg?raw=true"
+                },
+                {
+                    "id": 42,
+                    "itemName": "12 PIECE BUCKET - ORIGINAL",
+                    "itemCategory": "Buckets",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/12pcsChicken.jpeg?raw=true"
+                },
+                {
+                    "id": 43,
+                    "itemName": "15 PIECE BUCKET - HOT & CRISPY",
+                    "itemCategory": "Buckets",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/15pcsChicken.jpeg?raw=true"
+                },
+                {
+                    "id": 44,
+                    "itemName": "15 PIECE BUCKET - ORIGINAL",
+                    "itemCategory": "Buckets",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/15pcsChicken.jpeg?raw=true"
+                },
+                {
+                    "id": 45,
+                    "itemName": "WICKED ZINGER MEAL",
+                    "itemCategory": "Online Exclusives",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/WickedZinger.jpeg?raw=true"
+                },
+                {
+                    "id": 46,
+                    "itemName": "FULLY LOAD MEAL - HOT & CRISPY",
+                    "itemCategory": "Online Exclusives",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/FullyLoaderMeal.jpeg?raw=true"
+                },
+                {
+                    "id": 47,
+                    "itemName": "FULLY LOAD MEAL - ORIGINAL",
+                    "itemCategory": "Online Exclusives",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/FullyLoaderMeal.jpeg?raw=true"
+                },
+                {
+                    "id": 48,
+                    "itemName": "STREETWISE WINGS MEAL - RICE",
+                    "itemCategory": "Promotions",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Rice-meal.jpeg?raw=true"
+                },
+                {
+                    "id": 49,
+                    "itemName": "STREETWISE WINGS MEAL - CHIPS",
+                    "itemCategory": "Promotions",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/wings-meal.jpeg?raw=true"
+                },
+                {
+                    "id": 50,
+                    "itemName": "HONEY DUNKED WINGS",
+                    "itemCategory": "Promotions",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Sprite.jpeg?raw=true"
+                },
+                {
+                    "id": 51,
+                    "itemName": "HONEY DUNKED TWISTER MEAL",
+                    "itemCategory": "Promotions",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Honey-twister-meal.jpeg?raw=true"
+                },
+                {
+                    "id": 52,
+                    "itemName": "HONEY DUNKED TWISTER",
+                    "itemCategory": "Promotions",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/twister-wings.jpeg?raw=true"
+                },
+                {
+                    "id": 53,
+                    "itemName": "FEELI FEELI BUCKET - HOT & CRISPY",
+                    "itemCategory": "Promotions",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/OR-Chicken-Bucket.jpeg?raw=true"
+                },
+                {
+                    "id": 54,
+                    "itemName": "FEELI FEELI BUCKET - ORIGINAL",
+                    "itemCategory": "Promotions",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/OR-Chicken-Bucket.jpeg?raw=true"
+                },
+                {
+                    "id": 55,
+                    "itemName": "WING FEAST - MILKSHAKE",
+                    "itemCategory": "Hot Delivery Deals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Wings-Feast-milkshake.jpeg?raw=true"
+                },
+                {
+                    "id": 56,
+                    "itemName": "WING FEAST - KRUSHER",
+                    "itemCategory": "Hot Delivery Deals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Wings-Feast-krusher.jpeg?raw=true"
+                },
+                {
+                    "id": 57,
+                    "itemName": "STREETWISE 2 CHIPS BUNDLE - HOT & CRISPY",
+                    "itemCategory": "Hot Delivery Deals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/2Chicken-chipsAnd-Drink.jpeg?raw=true"
+                },
+                {
+                    "id": 58,
+                    "itemName": "STREETWISE 2 CHIPS BUNDLE - ORIGINAL",
+                    "itemCategory": "Hot Delivery Deals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/2Chicken-chipsAnd-Drink.jpeg?raw=true"
+                },
+                {
+                    "id": 59,
+                    "itemName": "STREETWISE 2 RICE BUNDLE - HOT & CRISPY",
+                    "itemCategory": "Hot Delivery Deals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/2ChickenWithRice.jpeg?raw=true"
+                },
+                {
+                    "id": 60,
+                    "itemName": "STREETWISE 2 RICE BUNDLE - ORIGINAL",
+                    "itemCategory": "Hot Delivery Deals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/2ChickenWithRice.jpeg?raw=true"
+                },
+                {
+                    "id": 61,
+                    "itemName": "STREETWISE 5 BUNDLE- HOT & CRISPY",
+                    "itemCategory": "Hot Delivery Deals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/5chickenWithChips.jpeg?raw=true"
+                },
+                {
+                    "id": 62,
+                    "itemName": "STREETWISE 5 BUNDLE - ORIGINAL",
+                    "itemCategory": "Hot Delivery Deals",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/5chickenWithChips.jpeg?raw=true"
+                },
+                {
+                    "id": 63,
+                    "itemName": "REGULAR KITKAT KRUSHER",
+                    "itemCategory": "Desserts",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/kitkat.jpeg?raw=true"
+                },
+                {
+                    "id": 64,
+                    "itemName": "MINI KITKAT KRUSHER",
+                    "itemCategory": "Desserts",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/kitkat.jpeg?raw=true"
+                },
+                {
+                    "id": 65,
+                    "itemName": "MILKSHAKE - STRAWBERRY",
+                    "itemCategory": "Desserts",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/milkshake.jpeg?raw=true"
+                },
+                {
+                    "id": 66,
+                    "itemName": "REGULAR BERRY KRUSHER",
+                    "itemCategory": "Desserts",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/berryKrusher.jpeg?raw=true"
+                },
+                {
+                    "id": 67,
+                    "itemName": "MINI BERRY KRUSHER",
+                    "itemCategory": "Desserts",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/berryKrusher.jpeg?raw=true"
+                },
+                {
+                    "id": 68,
+                    "itemName": "STREETWISE 5 - HOT & CRISPY",
+                    "itemCategory": "Srteewise",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/5Chicken.jpeg?raw=true"
+                },
+                {
+                    "id": 69,
+                    "itemName": "STREETWISE 5 - ORIGINAL",
+                    "itemCategory": "Srteewise",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/5Chicken.jpeg?raw=true"
+                },
+                {
+                    "id": 70,
+                    "itemName": "STREETWISE 4 - HOT & CRISPY",
+                    "itemCategory": "Srteewise",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/4ChickenWithChips.jpeg?raw=true"
+                },
+                {
+                    "id": 71,
+                    "itemName": "MSTREETWISE 4 - ORIGINAL",
+                    "itemCategory": "Srteewise",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/4ChickenWithChips.jpeg?raw=true"
+                },
+                {
+                    "id": 72,
+                    "itemName": "STREETWISE 3 RICE - HOT & CRISPY",
+                    "itemCategory": "Srteewise",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/3ChickenWithRice.jpeg?raw=true"
+                },
+                {
+                    "id": 73,
+                    "itemName": "STREETWISE 3 RICE - ORIGINAL",
+                    "itemCategory": "Srteewise",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/3ChickenWithRice.jpeg?raw=true"
+                },
+                {
+                    "id": 74,
+                    "itemName": "STREETWISE 3 CHIPS - HOT & CRISPY",
+                    "itemCategory": "Srteewise",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/3ChickenWithChips.jpeg?raw=true"
+                },
+                {
+                    "id": 75,
+                    "itemName": "STREETWISE 3 CHIPS - ORIGINAL",
+                    "itemCategory": "Srteewise",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/3ChickenWithChips.jpeg?raw=true"
+                },
+                {
+                    "id": 76,
+                    "itemName": "STREETWISE 2 RICE - HOT & CRISPY",
+                    "itemCategory": "Srteewise",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/2ChickenWithRiceOnly.jpeg?raw=true"
+                },
+                {
+                    "id": 77,
+                    "itemName": "STREETWISE 2 RICE - ORIGINAL",
+                    "itemCategory": "Srteewise",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/2ChickenWithRiceOnly.jpeg?raw=true"
+                },
+                {
+                    "id": 78,
+                    "itemName": "STREETWISE 2 CHIPS - HOT & CRISPY",
+                    "itemCategory": "Srteewise",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/2ChickenWithSmallChips.jpeg?raw=true"
+                },
+                {
+                    "id": 79,
+                    "itemName": "STREETWISE 2 CHIPS - ORIGINAL",
+                    "itemCategory": "Srteewise",
+                    "itemImage": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/2ChickenWithSmallChips.jpeg?raw=true"
+                }
+                ]
+}

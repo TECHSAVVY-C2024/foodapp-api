@@ -1,0 +1,74 @@
+    { 
+        "categories": [
+                    {
+                        "idCategory": "1",
+                        "itemCategory": "Promotions",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Honey-twister-meal.png?raw=true"
+                    },
+                    {
+                        "idCategory": "2",
+                        "itemCategory": "Hot_Delivery_Deals",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Wings-Feast-milkshake.jpeg?raw=true"
+                    },
+                    {
+                        "idCategory": "3",
+                        "itemCategory": "Meals",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/BurgerWithChips.jpeg?raw=true"
+                    },
+                    {
+                        "idCategory": "4",
+                        "itemCategory": "Burgers",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/BurgerOnly.jpeg?raw=true"
+                    },
+                    {
+                        "idCategory": "5",
+                        "itemCategory": "Desserts",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/milkshake.jpeg?raw=true"
+                    },
+                    {
+                        "idCategory": "6",
+                        "itemCategory": "Value_Meals",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/WingMan.jpeg?raw=true"
+                    },
+                    {
+                        "idCategory": "7",
+                        "itemCategory": "Toasted",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/TwisterOnly.jpeg?raw=true"
+                    },
+                    {
+                        "idCategory": "8",
+                        "itemCategory": "Drinks",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/coke.jpeg?raw=true"
+                    },
+                    {
+                        "idCategory": "9",
+                        "itemCategory": "Snacks",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/PopsBucket.jpeg?raw=true"
+                    },
+                    {
+                        "idCategory": "10",
+                        "itemCategory": "Online_Exclusive",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/WickedZinger.jpeg?raw=true"
+                    },
+                    {
+                        "idCategory": "11",
+                        "itemCategory": "Streetwise",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/5Chicken.jpeg?raw=true"
+                    },
+                    {
+                        "idCategory": "12",
+                        "itemCategory": "Chicken_Pieces",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/1pscChicken.jpeg?raw=true"
+                    },
+                    {
+                        "idCategory": "13",
+                        "itemCategory": "Buckets",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/15pcsChicken.jpeg?raw=true"
+                    },
+                    {
+                        "idCategory": "14",
+                        "itemCategory": "Sides",
+                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Z-sauce.jpeg?raw=true"
+                    }
+    ]
+}
