@@ -22,12 +22,12 @@ app.get("/", (req, res) => {
 
 app.get('/categories', async (req, res) => {
   const categories = await loadJSON("./categories.json");
-  res.json(categories.categories); // Adjust according to JSON structure
+  res.json(categories); // Adjust according to JSON structure
 });
 
 app.get('/items', async (req, res) => {
   const items = await loadJSON("./items.json");
-  res.json(items.items); // Adjust according to JSON structure
+  res.json(items); // Adjust according to JSON structure
 });
 
 app.get("/random", async (req, res) => {
