@@ -3,72 +3,72 @@
                     {
                         "idCategory": "1",
                         "itemCategory": "Promotions",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Honey-twister-meal.png?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Honey-twister-meal_yooj9t.png"
                     },
                     {
                         "idCategory": "2",
                         "itemCategory": "Hot_Delivery_Deals",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Wings-Feast-milkshake.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Wings-Feast-milkshake_cjfist.png"
                     },
                     {
                         "idCategory": "3",
                         "itemCategory": "Meals",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/BurgerWithChips.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/BurgerWithChips_y8s1cz.png"
                     },
                     {
                         "idCategory": "4",
                         "itemCategory": "Burgers",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/BurgerOnly.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/BurgerOnly_c3eoe5.png"
                     },
                     {
                         "idCategory": "5",
                         "itemCategory": "Desserts",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/milkshake.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/milkshake_nkmowg.png"
                     },
                     {
                         "idCategory": "6",
                         "itemCategory": "Value_Meals",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/WingMan.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/WingMan_vglvyl.png"
                     },
                     {
                         "idCategory": "7",
                         "itemCategory": "Toasted",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/TwisterOnly.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/TwisterOnly_c9bgw7.png"
                     },
                     {
                         "idCategory": "8",
                         "itemCategory": "Drinks",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/coke.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/_imlmor.png"
                     },
                     {
                         "idCategory": "9",
                         "itemCategory": "Snacks",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/PopsBucket.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/PopsBucket_tikp2c.png"
                     },
                     {
                         "idCategory": "10",
                         "itemCategory": "Online_Exclusive",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/WickedZinger.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/WickedZinger_tkhfsx.png"
                     },
                     {
                         "idCategory": "11",
                         "itemCategory": "Streetwise",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/5Chicken.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/5Chicken_j7gw5n.png"
                     },
                     {
                         "idCategory": "12",
                         "itemCategory": "Chicken_Pieces",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/1pscChicken.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/1pscChicken_xa56qs.png"
                     },
                     {
                         "idCategory": "13",
                         "itemCategory": "Buckets",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/15pcsChicken.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/15pcsChicken_w2tppp.png"
                     },
                     {
                         "idCategory": "14",
                         "itemCategory": "Sides",
-                        "strCategoryThumb": "https://github.com/TECHSAVVY-C2024/APP-PROJECTS/blob/master/assets/images/App-Images/Z-sauce.jpeg?raw=true"
+                        "strCategoryThumb": "https://res.cloudinary.com/dl2j0yjt9/image/upload/v1731588434/Images_api/Z-sauce_dske5g.png"
                     }
     ]
 }
